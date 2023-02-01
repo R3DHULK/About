@@ -1,0 +1,14 @@
+<span id="a">r3dhulk@sumalya</span>:<span id="b">~</span><span id="c">$</span> cd R3DHULK/<!-- kjsdfhkjdhsfkjdshfkj -->About_Sumalya
+<span id="a">r3dhulk@sumalya</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->sumalya.txt<br/><br/>
+My favorite code quote, "<span id="k">Talk Is Cheap, Show Me The Code</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Sumalya Chatterjee.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently learning programming and ethical hacking.</p>
+<p>I love to code and help others in programming problems, and play football and cricket, and have interest on others technologies too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I gathered knowledges in fields like Android Development, Linux Development, Simple robotics with Raspberry Pi, Web Development, Game Development and Video Editing until now, and my vision is to spread cyber awareness across the world and to teach how real world vulnerabilities exist. You can check out my<a href="https://r3dhulk.github.io/Courses/"> courses</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>One thing I used to do is to give all coding solutions in <a href="https://github.com/R3DHULK/">one place</a>. My programming language wisdoms are limited in python, clang, javascript, golang, ruby, perl, sql, php, bash and batch. But I always explore other languages too. <br><br><br>Do you want to play some games? <a href="https://r3dhulk.github.io/GameZone/"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can visit my social media handles, here: <br> <a href="https://www.linkedin.com/in/sumalya-chatterjee-676b31262/">LinkedIn</a> <br> <a href="https://github.com/R3DHULK">GitHub</a> <br> <a href="https://www.youtube.com/@sumalya">YouTube</a> and <br> <a href="https://instagram.com/r3dh_ulk?igshid=ZDdkNTZiNTM=">Instagram</a>.</p>
+
+If you would like me to contribute any of your projects or motive<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: sumalyachatterjee75@gmail.com">sumalyachatterjee75@gmail.com</a>.
+
+<p>Cheers!</p>
+<span id="a">r3dhulk@sumalya</span>:<span id="b">~</span><span id="c">$</span> exit
